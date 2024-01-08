@@ -1,2 +1,2 @@
 # halvg.github.io
-Personal web page.
+Personal web page using github pages.
